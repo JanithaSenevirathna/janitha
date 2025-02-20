@@ -1,3 +1,7 @@
+------
+layout: default
+title: "DJ"
+------
 # My great web site
 
 I am Janitha. I am a student at [PSU](https://www.bing.com/search?q=bmmb+554+anton&form=ANNTH1&refig=bc5a5fccb40140c68ebfa2f8ddc7f34f&pc=LCTS&ntref=1)
